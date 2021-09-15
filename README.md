@@ -4,7 +4,7 @@
 <br>
 
 👉 **Dongguk univ. <br>
-👉 Industrial Systems Engineering & '융합SW'**
+👉 Industrial Systems Engineering & Convergence Software Institute**
 
 <br><br>
 
