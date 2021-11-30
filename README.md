@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&&fontColor=FFFFFF&height=150&section=header&fontSize=50&&fontAlignY=35&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D2E1FF&&fontColor=FFFFFF&height=150&section=header&fontSize=50&&fontAlignY=35&animation=blink)
 
 <h1 align="center"> Hi  🐱👋 </h1>
 
