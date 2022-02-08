@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D2E1FF&&fontColor=FFFFFF&height=150&section=header&fontSize=50&&fontAlignY=35&animation=blink)
 
-<h1 align="center"> Hi  🐱👋 </h1>
+<h1 align="center"> Hi 🐳 </h1>
 
 <br>
 
