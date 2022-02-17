@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/CSS3-dodgerblue?style=뱃지모양&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-orangered?style=뱃지모양&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/R-olive?style=뱃지모양&logo=R&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-orchid?style=뱃지모양&logo=MariaDB&logoColor=white"/>
 </p>
 
+<br>
+<br>
+
 <!-- <br>
  
 <p align="center">
