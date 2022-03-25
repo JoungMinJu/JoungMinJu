@@ -20,7 +20,14 @@
 </p>
 
 <br>
-<br>
+
+
+<h4 align="center">💡 My Git Stats 💡</h4>
+<p align="center">
+  <a href="https://github.com/${JoungMinJu}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoungMinJu&show_icons=true&include_all_commits=true&theme=buefy" />
+  </a>
+</p>
 
 <!-- <br>
  
