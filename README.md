@@ -13,7 +13,6 @@
 
 
 <h4 align="center">✨I've used this tool.✨</h4>
-<br>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-coral?style=뱃지모양&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/python-blue?style=뱃지모양&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C++-royalblue?style=뱃지모양&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-black?style=뱃지모양&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Django-lightcoral?style=뱃지모양&logo=Django&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/CSS3-dodgerblue?style=뱃지모양&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-orangered?style=뱃지모양&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/R-olive?style=뱃지모양&logo=R&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-orchid?style=뱃지모양&logo=MariaDB&logoColor=white"/>
