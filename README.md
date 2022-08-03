@@ -30,13 +30,7 @@
 
 <br><br>
 
-<!-- <br>
- 
-<p align="center">
-<a  href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoungMinJu&count_bg=%23FFE5E1&title_bg=%23F9BDBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
- -->
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswn9938)](https://solved.ac/alswn9938/)
 <!--
 **JoungMinJu/JoungMinJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
