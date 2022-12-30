@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center"> INTRODUCE </h3>
+<h3 align="center"> INTRODUCE </h3>
 <p align="center">
 - Dongguk univ. <br>
 - Industrial Systems Engineering & Convergence Software Institute
