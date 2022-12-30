@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center"> INTRODUCE </h3>
+<h2 align="center"> INTRODUCE </h3>
 <p align="center">
 - Dongguk univ. <br>
 - Industrial Systems Engineering & Convergence Software Institute
@@ -14,18 +14,9 @@
 <br>
 
 
-<h4 align="center">💡 My Git Stats 💡</h4>
-<p align="center">
-  <a href="https://github.com/${JoungMinJu}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoungMinJu&show_icons=true&include_all_commits=true&theme=buefy" />
-  </a>
-</p>
-
-<br><br>
 
 
-
-<h4 align="center">🏃‍♀️ Stacks 🏃‍♀️</h4>
+<h3 align="center">🏃‍♀️ Stacks 🏃‍♀️</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -54,4 +45,16 @@
 </p>
 
 <br>
+
+<br>
+
+
+<h3 align="center">💡 My Git Stats 💡</h4>
+<p align="center">
+  <a href="https://github.com/${JoungMinJu}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoungMinJu&show_icons=true&include_all_commits=true&theme=buefy" />
+  </a>
+</p>
+
+<br><br>
 
